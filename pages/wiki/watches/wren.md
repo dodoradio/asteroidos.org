@@ -8,7 +8,7 @@ Wren (ASUS ZenWatch 2) is a medium-sized rectangular watch and is the smaller ve
   <div class="support-col">Haptics<div class="support-col-good"></div></div>
   <div class="support-col">USB<div class="support-col-good"></div></div>
   <div class="support-col">WLAN<div class="support-col-good"></div></div>
-  <div class="support-col">Tilt-to-Wake<div class="support-col-bad"></div></div>
+  <div class="support-col">Tilt-to-Wake<div class="support-col-good"></div></div>
   <div class="support-col">USB access<div class="support-col-good"></div></div>
 </div>
 
@@ -28,7 +28,7 @@ Wren is a rectangular watch with very rounded corners and a power button on the 
 
 # Repair and customisation
 The back of the watch is held on by screws, so repairs are easy. Parts are commonly available. You will likely need to replace the battery when buying these watches as they are getting quite old.
-The display is also available and usually shipped includingnthe metal casing.
+The display is also available and usually shipped including the metal casing.
 
 # Miscellaneous hardware docs
 ## Manually getting to fastboot
