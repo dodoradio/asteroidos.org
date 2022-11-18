@@ -1,4 +1,4 @@
-Sparrow and Wren (ASUS ZenWatch 2) are rectangular watches. Both differ in size, wren being smaller than sparrow. And in the detail that wren misses a speaker. The ports are very complete and polished.
+Sparrow and Wren (ASUS ZenWatch 2) are rectangular watches. The two differ in size, wren being smaller, while sparrow is larger and adds a speaker. The ports are very complete and polished.
 
 <div class="support-row">
   <div class="support-col">Display<div class="support-col-good"></div></div>
@@ -25,11 +25,10 @@ Thickness: 10.1mm = Sparrow, 11.8mm = Wren
 Dimensions: 49.6mm x 40.7mm = Sparrow, 45.2mm x 37.2mm = Wren
 
 # Description
-Sparrow and Wren are rectangular watches with rounded corners and a power button on the right side. The display is a flat 1.63" OLED with 320px resolution on sparrow. And 1.45" OLED with a low 280px resolution on Wren, Both are protected by 2.5D curved Corning Gorilla Glass 3. Sparrow takes 22mm straps. Wren fits with 18mm straps.
+Sparrow and wren are rectangular watches with rounded corners and a power button on the right side. The display is a flat 1.63" OLED with 320px resolution on sparrow, and 1.45" OLED with a low 280px resolution on Wren. Both are protected by 2.5D curved Corning Gorilla Glass 3. Sparrow takes 22mm straps, while wren takes 18mm straps.
 
 # Repair and customisation
-The back of the watches is held on by screws, so repairs are easy. Parts are commonly available. You will likely need to replace the battery when buying these watches as they are getting quite old.
-The display is also available and usually shipped including the metal casing.
+The back of the watches is held on by screws, so repairs are easy. Parts are commonly available. The display is usually shipped including the metal casing. You will likely need to replace the battery when buying these watches as they are getting quite old.
 
 # Miscellaneous hardware docs
 ## Manually getting to fastboot
